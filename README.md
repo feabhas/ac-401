@@ -4,6 +4,17 @@ Exercise solutions and cmake projects for:
 
    * AC-401 Advanced C Programming
 
+**Contents**
+- [Advanced C Programming Exercises](#advanced-c-programming-exercises)
+- [Folder structure](#folder-structure)
+  - [Solutions](#solutions)
+  - [Workspace](#workspace)
+- [Build Toolchain](#build-toolchain)
+  - [Build the application](#build-the-application)
+  - [Visual Studio shortcuts](#visual-studio-shortcuts)
+  - [Command line builds](#command-line-builds)
+  - [Building an exercise solution](#building-an-exercise-solution)
+- [Disclaimer](#disclaimer)
 
 # Folder structure
 
